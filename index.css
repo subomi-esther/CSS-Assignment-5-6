@@ -1,0 +1,33 @@
+body {
+    background-color: #ECE7E2 ;
+}
+
+.heading {
+    display: flexbox;
+    background-color: #4A7766;
+    width: 100%;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.assignments {
+  display: flexbox;
+  text-align: center;
+  font-family: cursive;
+
+
+
+}
+
+p {
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #4A7766;
+
+}
+
+
+
